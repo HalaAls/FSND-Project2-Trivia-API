@@ -1,7 +1,11 @@
 ## Full Stack Developer Nanodegree Program - Udacity x Misk 
+
 Dec 14 2020
+
 Part 2: API Development and Documentation
+
 Project 2: Trivia API
+
 -----
 
 
